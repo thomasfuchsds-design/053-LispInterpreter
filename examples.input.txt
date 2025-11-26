@@ -1,0 +1,9 @@
+t
+()
+true
+(cons 1 2)
+(cons 1 nil)
+(cons 1 (cons 2 nil))
+(plus 1 2)
+
+
